@@ -29,7 +29,7 @@ Java 프로젝트를 생성하듯, Kotlin 프로젝트를 생성하면 된다. �
 계속해서 프로젝트 생성을 진행한다. 
 ![스크린샷 2021-04-05 오후 10 32 58](https://user-images.githubusercontent.com/46964910/113588515-37fe1e80-966b-11eb-9272-e470048af1b6.png)
        
-Kotlin 파일을 생성하고 main 함수를 생성해 Hello Kotlin 을 출력해보았다. (Build System 을 Gradle Kotlin 으로 선택해 실행시 gradle 로 빌드되고 실행되었다)
+Kotlin 파일을 생성하고 main 함수를 생성해 Hello Kotlin 을 출력해보았다. (Build System 을 Gradle Kotlin 으로 선택해 실행시 gradle 로 빌드되고 실행되었다)     
 ![스크린샷 2021-04-05 오후 11 59 22](https://user-images.githubusercontent.com/46964910/113588880-a3e08700-966b-11eb-9aef-c2a256667db3.png)
       
 콘솔 화면에 출력문을 보기 힘들고 빌드되는 시간을 줄이기 위해 실행시 Intellij 에서 바로 실행되도록 변경하였다.     
