@@ -6,6 +6,14 @@
 - [Spring Batch 메타테이블](https://github.com/JadenKim940105/TIL/blob/master/spring/batch/Spring%EB%B0%B0%EC%B9%98%20%EB%A9%94%ED%83%80%ED%85%8C%EC%9D%B4%EB%B8%94.md)
 
 ----
+## Kotlin
+#### 코틀린 
+- [Kotlin Intro](https://github.com/JadenKim940105/TIL/blob/master/kotlin/Kotlin%20Intro.md)
+
+---- 
+
 ## ETC 
 ### GIT
 - [Git ignore](https://github.com/JadenKim940105/TIL/blob/master/git/Ignore.md) 
+
+ 
