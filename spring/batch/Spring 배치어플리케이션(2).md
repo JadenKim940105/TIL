@@ -120,5 +120,5 @@ NONE 을 할당해 어떠한 Job 도 수행시키지 않게된다**
 stepNextJob 만 실행된 것을 확인할 수 있다. 
 
 ----
-위 내용은 [기억보단 기록을](https://jojoldu.tistory.com/324) 블로그의 글을 참조하여 재구성하였습니다.로
+위 내용은 [기억보단 기록을](https://jojoldu.tistory.com/324) 블로그의 글을 참조하여 재구성하였습니다.
 
