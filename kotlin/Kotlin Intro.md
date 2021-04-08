@@ -1,4 +1,4 @@
-# Kotlin
+# Kotlin 코틀린 시작하기
 
 ![스크린샷 2021-04-05 오후 10 28 13](https://user-images.githubusercontent.com/46964910/113578722-37ab5680-965e-11eb-9caa-403ff578357b.png)     
 
