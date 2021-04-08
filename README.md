@@ -10,4 +10,7 @@
 ## Kotlin
 [Kotlin -  코틀린 시작하기](./kotlin/KotlinIntro.md)  
 ## ETC
+1. 깃  
 [Git -  Ignore](./git/Ignore.md)  
+2. ETC  
+[etc. -  README 자동생성](./etc/ReadMeAutoCreator.md)  
