@@ -16,6 +16,6 @@
 
 ## ETC 
 ### GIT
-- [Git ignore](https://github.com/JadenKim940105/TIL/blob/master/git/Ignore.md) 
+- [Git ignore](./git/Ignore.md) 
 
  
