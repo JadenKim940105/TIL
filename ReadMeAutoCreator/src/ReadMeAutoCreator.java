@@ -54,6 +54,11 @@ public class ReadMeAutoCreator {
                 writeTitleAndLink(bw, i, "Spring Batch");
             }
 
+            bw.write("2. 스프링 웹 MVC  \n");
+            for(int i = 0 ; i < studySubjects.size(); i++){
+                writeTitleAndLink(bw, i, "Spring web MVC");
+            }
+
             bw.write("## Kotlin\n");
             for(int i = 0 ; i < studySubjects.size(); i++){
                 writeTitleAndLink(bw, i, "Kotlin");
