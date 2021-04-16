@@ -11,6 +11,7 @@
 [Spring web MVC -  DispatcherServlet](./spring/webmvc/DispatcherServlet1.md)  
 3. 스프링 부트  
 [Spring Boot -  시작하기](./spring/boot/SpringBootBasic1.md)  
+[Spring Boot -  자동설정 활용](./spring/boot/SpringBootBasic2.md)  
 ## Kotlin
 [Kotlin -  코틀린 시작하기](./kotlin/KotlinIntro.md)  
 ## ETC
