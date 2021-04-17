@@ -46,7 +46,7 @@ Spring MVC 의 핵심이라 할 수 있는 디스패처서블릿을 만들고, �
 ## 다른 서블릿 컨테이너로 변경
 ServletWebServerFactoryAutoConfiguration 와 DispatcherServletAutoConfiguration 분리함으로써 다양한 서블릿컨테이너를 사용할 수 있겠구나 라고 짐작할 수 있었다.
 그렇다면 다른 서블릿 컨테이너로 변경은 어떻게 할 수 있을까?   
-[!톰캣의존성](https://github.com/JadenKim940105/TIL-images/blob/master/img/spring/boot/%EB%82%B4%EC%9E%A5%ED%86%B0%EC%BA%A31.png)    
+![톰캣의존성](https://github.com/JadenKim940105/TIL-images/blob/master/img/spring/boot/%EB%82%B4%EC%9E%A5%ED%86%B0%EC%BA%A31.png)    
 1. 위의 사진에서 알 수 있듯이 기본적으로 spring-boot-starter-web 은 spring-boot-starter-tomcat 을 가져온다.  
 따라서 이 의존성을 빼준다. 
 ````java
