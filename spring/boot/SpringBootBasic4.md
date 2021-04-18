@@ -24,9 +24,10 @@ mvn clean package
 중요부분을 조금 살펴보자면  
 - org.springframework.boot.loader 패키지에 로더관련 파일들이 들어간다.  
 - BOOT-INF 안 classes 에 프로젝트를 위해 만든 클래스들이 들어간다. 
-- BOOT-INF 안 lib 에 프로젝트를 위해 사용한 라이브러리들이 들어간다. 
+- BOOT-INF 안 lib 에 프로젝트를 위해 사용한 라이브러리들이 들어간다.  
+
 ![프로젝트구조](https://github.com/JadenKim940105/TIL-images/blob/master/img/spring/boot/jar%ED%8C%8C%EC%9D%BC%EA%B5%AC%EC%A1%B02.png)  
-  
+ 
 스프링 부트는 내장 JAR 를 로딩하는 방법을 구현해둠으로써 손쉽게 실행 가능한 JAR 파일 하나로 프로젝트를 패키징 할 수 있게 된다.
 - org.springframework.boot.loader.jar.JarFile 을 사용해 내장 JAR를 읽는다
 - org.springframework.boot.loader.Launcher 를 사용해 실행한다. 
