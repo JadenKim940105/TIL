@@ -1,4 +1,4 @@
-# Spring Batch Scope & Job parameter
+# Spring Batch#6 Scope & Job parameter
 
 ## JobParameter 와 Spring Batch 의 Scope 활용
 Spring 배치에서는 외부/내부 에서 파라미터를 받아 Batch 컴포넌트들이 사용할 수 있도록 지원하고 있다.

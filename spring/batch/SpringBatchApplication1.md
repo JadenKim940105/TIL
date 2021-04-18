@@ -1,4 +1,4 @@
-# Spring Batch 스프링 배치 사용해보기(1)
+# Spring Batch#2 스프링 배치 사용해보기
 
 ## 1. @EnableBatchProcessing
 Spring batch 기능 활성화 어노테이션을 추가해 Spring batch 기능을 사용할 수 았다.

@@ -6,6 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class ReadMeAutoCreator {
 
@@ -46,6 +47,9 @@ public class ReadMeAutoCreator {
 
     // README 파일 생성 메서드
     private static void createReadMeFile(ArrayList<String> studySubjects){
+
+        Collections.sort(studySubjects);
+
         try(BufferedWriter bw = new BufferedWriter(new FileWriter("README.md", true))) {
             bw.write("# TIL\n");
             bw.write("## Spring\n");

@@ -1,4 +1,4 @@
-# Spring Batch Job Flow(2)
+# Spring Batch#5 Job Flow(2)
 
 ## 조건별 흐름 제어
 Next를 통해 순차적으로 Step의 순서를 제어한다는 것을 이전 예제코드를 통해 확인할 수 있었다. 중요한 사실은 **앞의 Step 에서 오류가 나면 뒤에 있는 Step 들은 실행되지 않는다**는 것이다.  

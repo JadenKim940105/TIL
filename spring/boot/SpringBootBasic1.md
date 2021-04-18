@@ -1,4 +1,4 @@
-# Spring Boot 시작하기
+# Spring Boot#1 시작하기
 
 ## Spring Boot 는 의존성을 어떻게 가져오는가? (Maven 기준)  
 ![의존성상속구조](https://github.com/JadenKim940105/TIL-images/blob/master/img/spring/boot/%EC%9D%98%EC%A1%B4%EC%84%B1%EC%83%81%EC%86%8D%EA%B5%AC%EC%A1%B0.png)  

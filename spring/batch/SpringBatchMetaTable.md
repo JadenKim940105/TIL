@@ -1,4 +1,4 @@
-# Spring Batch 메타테이블 살펴보기
+# Spring Batch#3 메타테이블 살펴보기
 
 < Spring Batch 메타테이블 구조 [참고](https://docs.spring.io/spring-batch/docs/3.0.x/reference/html/metaDataSchema.html) >    
 
