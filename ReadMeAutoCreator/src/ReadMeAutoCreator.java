@@ -13,6 +13,7 @@ public class ReadMeAutoCreator {
     private final static String tilDirectoryPath = "/Users/jhkim/desktop/til";
     private final static ArrayList<String> studyPaths = new ArrayList<>();
     private final static ArrayList<String> studySubjects = new ArrayList<>();
+    private final static ArrayList<String> sortedList = new ArrayList<>();
 
     public static void main(String[] args){
         File file = new File("README.md");
@@ -47,8 +48,6 @@ public class ReadMeAutoCreator {
 
     // README 파일 생성 메서드
     private static void createReadMeFile(ArrayList<String> studySubjects){
-
-        Collections.sort(studySubjects);
 
         try(BufferedWriter bw = new BufferedWriter(new FileWriter("README.md", true))) {
             bw.write("# TIL\n");
@@ -101,5 +100,7 @@ public class ReadMeAutoCreator {
             String[] split = studySubjects.get(i).split("# " + subject);
             bw.write("["+subject + " - " + split[1] + "](." + studyPaths.get(i).split(tilDirectoryPath)[1] + ")  \n");
         }
+
+
     }
 }
