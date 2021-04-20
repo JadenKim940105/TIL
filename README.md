@@ -11,6 +11,7 @@
 [Spring web MVC - #1 DispatcherServlet](./spring/webmvc/DispatcherServlet1.md)  
 3. 스프링 부트  
 [Spring Boot - #1 시작하기](./spring/boot/SpringBootBasic1.md)  
+[Spring Boot - #5 Spring Boot Features](./spring/boot/SpringBootBasic5.md)  
 [Spring Boot - #4 독립적으로 실행 가능한 JAR](./spring/boot/SpringBootBasic4.md)  
 [Spring Boot - #3 내장 서블릿 컨테이너](./spring/boot/SpringBootBasic3_imbeded_sevlet_container.md)  
 [Spring Boot - #2 자동설정 활용](./spring/boot/SpringBootBasic2.md)  
