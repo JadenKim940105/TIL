@@ -49,6 +49,7 @@ public class ReadMeAutoCreator {
     // README 파일 생성 메서드
     private static void createReadMeFile(ArrayList<String> studySubjects){
 
+
         try(BufferedWriter bw = new BufferedWriter(new FileWriter("README.md", true))) {
             bw.write("# TIL\n");
             bw.write("## Spring\n");
@@ -56,31 +57,39 @@ public class ReadMeAutoCreator {
             for(int i = 0 ; i < studySubjects.size(); i++){
                 writeTitleAndLink(bw, i, "Spring Batch");
             }
+            sort(bw);
+
 
             bw.write("2. 스프링 웹 MVC  \n");
             for(int i = 0 ; i < studySubjects.size(); i++){
                 writeTitleAndLink(bw, i, "Spring web MVC");
             }
+            sort(bw);
 
             bw.write("3. 스프링 부트  \n");
             for(int i = 0 ; i < studySubjects.size(); i++){
                 writeTitleAndLink(bw, i, "Spring Boot");
             }
+            sort(bw);
 
             bw.write("## Kotlin\n");
             for(int i = 0 ; i < studySubjects.size(); i++){
                 writeTitleAndLink(bw, i, "Kotlin");
             }
+            sort(bw);
 
             bw.write("## ETC\n");
             bw.write("1. 깃  \n");
             for(int i = 0 ; i < studySubjects.size(); i++){
                 writeTitleAndLink(bw, i, "Git");
             }
+            sort(bw);
+
             bw.write("2. ETC  \n");
             for(int i = 0 ; i < studySubjects.size(); i++){
                 writeTitleAndLink(bw, i, "etc.");
             }
+            sort(bw);
 
 
 
@@ -89,18 +98,24 @@ public class ReadMeAutoCreator {
         }
     }
 
+    private static void sort(BufferedWriter bw) throws IOException {
+        Collections.sort(sortedList);
+        for(int i = 0 ; i <sortedList.size(); i++){
+            bw.write(sortedList.get(i));
+        }
+        sortedList.clear();
+    }
+
     /**
-    *   TIL md title convention
-    *   # 주제 & 부제
-    *   ex) # Spring Batch(주제) 배치프로세싱?(부제)
-    *   writeTitleAndLink(bw, i, 주제)
-    */
+     *   TIL md title convention
+     *   # 주제 & 부제
+     *   ex) # Spring Batch(주제) 배치프로세싱?(부제)
+     *   writeTitleAndLink(bw, i, 주제)
+     */
     private static void writeTitleAndLink(BufferedWriter bw, int i, String subject) throws IOException {
         if(studySubjects.get(i).startsWith("# " + subject)){
             String[] split = studySubjects.get(i).split("# " + subject);
-            bw.write("["+subject + " - " + split[1] + "](." + studyPaths.get(i).split(tilDirectoryPath)[1] + ")  \n");
+            sortedList.add("["+subject + " - " + split[1] + "](." + studyPaths.get(i).split(tilDirectoryPath)[1] + ")  \n");
         }
-
-
     }
 }
