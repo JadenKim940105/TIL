@@ -16,6 +16,7 @@
 [Spring Boot - #4 독립적으로 실행 가능한 JAR](./spring/boot/SpringBootBasic4.md)  
 [Spring Boot - #5 Spring Boot Features](./spring/boot/SpringBootBasic5.md)  
 [Spring Boot - #6 Spring Boot 외부설정](./spring/boot/SpringBootBasic6.md)  
+[Spring Boot - #7 Spring Boot 프로파일  ](./spring/boot/SpringBootBasic7.md)  
 ## Kotlin
 [Kotlin -  코틀린 시작하기](./kotlin/KotlinIntro.md)  
 ## ETC
