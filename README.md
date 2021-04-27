@@ -17,6 +17,7 @@
 [Spring Boot - #5 Spring Boot Features](./spring/boot/SpringBootBasic5.md)  
 [Spring Boot - #6 Spring Boot 외부설정](./spring/boot/SpringBootBasic6.md)  
 [Spring Boot - #7 Spring Boot 프로파일  ](./spring/boot/SpringBootBasic7.md)  
+[Spring Boot - #8 Spring Boot 로깅  ](./spring/boot/SpringBootBasic8.md)  
 ## Kotlin
 [Kotlin -  코틀린 시작하기](./kotlin/KotlinIntro.md)  
 ## ETC
