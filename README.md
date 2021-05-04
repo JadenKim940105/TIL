@@ -26,3 +26,4 @@
 2. ETC  
 [etc. -  HTTPS ](./etc/Https.md)  
 [etc. -  README 자동생성](./etc/ReadMeAutoCreator.md)  
+[etc. -  SSH](./etc/SSH.md)  
