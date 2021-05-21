@@ -78,6 +78,12 @@ public class ReadMeAutoCreator {
             }
             sort(bw);
 
+            bw.write("## Java\n");
+            for(int i = 0; i < studySubjects.size(); i++){
+                writeTitleAndLink(bw, i, "Java");
+            }
+            sort(bw);
+
             bw.write("## ETC\n");
             bw.write("1. 깃  \n");
             for(int i = 0 ; i < studySubjects.size(); i++){
