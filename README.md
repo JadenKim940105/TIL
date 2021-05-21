@@ -21,7 +21,8 @@
 ## Kotlin
 [Kotlin -  코틀린 시작하기](./kotlin/KotlinIntro.md)  
 ## Java
-[Java -  Stream ](./java/JavaStream.md)  
+[Java - #1 Stream ](./java/JavaStream.md)  
+[Java - #2 Optional](./java/JavaOptional.md)  
 ## ETC
 1. 깃  
 [Git - #1 Ignore](./git/Ignore.md)  
