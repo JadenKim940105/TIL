@@ -287,6 +287,10 @@ WriteResult({ "nMatched" : 1, "nUpserted" : 0, "nModified" : 1 })
 { "_id" : ObjectId("60c786c7ea3b0060957f8b0a") }
 ````
 
+---- 
+참고한 곳 : https://youtu.be/Www6cTUymCY 
+영어로 설명하지만, 쉬운 단어 위주로 천천히 설명하기 때문에 이해가 잘된다.. 종종 찾아봐야지.. 
+
 
 
 
