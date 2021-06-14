@@ -38,10 +38,10 @@ networks:           # 네트워크 설정
         name: mongodb_network
 ```
 yaml 파일을 작성하였다면 다음과 같이 실행시켜보자.  
-[Compose활용](https://github.com/JadenKim940105/TIL-images/blob/master/img/etc/mongo/1start.png)  
+![Compose활용](https://github.com/JadenKim940105/TIL-images/blob/master/img/etc/mongo/1start.png)  
   
 컨테이너가 뜬 것을 확인하였고 직접 MongoExpress 에 들어가보면 잘 동작하는 것을 확인 할 수 있다.  
-[MongoExpress](https://github.com/JadenKim940105/TIL-images/blob/master/img/etc/mongo/2mongoexpress.png)
+![MongoExpress](https://github.com/JadenKim940105/TIL-images/blob/master/img/etc/mongo/2mongoexpress.png)
 
 #### Mongo Shell 사용하기
 MongoExpress 와 같은 GUI 툴을 사용할 수도 있지만 Mongo Shell 을 사용해 간단히 몽고DB를 조작할 수 있다.
