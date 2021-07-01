@@ -98,6 +98,13 @@ public class ReadMeAutoCreator {
             sort(bw);
 
 
+            bw.write("## 테코톡\n");
+            for(int i = 0; i < studySubjects.size(); i++){
+                writeTitleAndLink(bw, i, "테코톡");
+            }
+            sort(bw);
+
+
 
         } catch (IOException ioException) {
             ioException.printStackTrace();

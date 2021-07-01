@@ -33,3 +33,5 @@
 [etc. -  README 자동생성](./etc/ReadMeAutoCreator.md)  
 [etc. -  RESTful-API](./etc/RESTfulAPI.md)  
 [etc. -  SSH](./etc/SSH.md)  
+## 테코톡
+[테코톡 - #1 리눅스 파일시스템](./techtalk/LinuxFileSystem.md)  
