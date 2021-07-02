@@ -9,6 +9,7 @@
 [Spring Batch - #6 Scope & Job parameter](./spring/batch/SpringBatchApplication4.md)  
 2. 스프링 웹 MVC  
 [Spring web MVC - #1 DispatcherServlet](./spring/webmvc/DispatcherServlet1.md)  
+[Spring web MVC - #2 익셉션 핸들링](./spring/webmvc/HandlingException.md)  
 3. 스프링 부트  
 [Spring Boot - #1 시작하기](./spring/boot/SpringBootBasic1.md)  
 [Spring Boot - #2 자동설정 활용](./spring/boot/SpringBootBasic2.md)  
