@@ -38,3 +38,4 @@
 [테코톡 - #1 리눅스 파일시스템](./techtalk/LinuxFileSystem.md)  
 [테코톡 - #2 리눅스 메모리 관리](./techtalk/LinuxMemory.md)  
 [테코톡 - #3 JVM Stack & Heap](./techtalk/JVM_Stack_Heap.md)  
+[테코톡 - #4 DNS](./techtalk/DNS.md)  
