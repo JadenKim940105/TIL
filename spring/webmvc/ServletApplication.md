@@ -1,5 +1,11 @@
 # Spring web MVC#0 Servlet 
 
+---
+
+이 포스팅은 백기선님의 스프링부트 강의를 듣고, 제 나름대로 다시 공부하고 정리한 포스팅 입니다. 만약, 조금 더 자세한 내용을 듣고 싶으시다면 [이곳의 강의](https://www.whiteship.me/courses/) 를 참고해보시기 바랍니다
+
+---
+
 ## Web flux & Web MVC
 Spring boot starter 중 웹과 관련된 스타터는 flux 와 mvc 가 있는 것을 알 수 있다.
 그 중 Web MVC 는 servlet 기반의 웹 개발을 지원한다. 따라서 spring web mvc 를 잘 이해하기 위해서는 
