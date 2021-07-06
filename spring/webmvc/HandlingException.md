@@ -1,4 +1,4 @@
-# Spring web MVC#2 익셉션 핸들링
+# Spring web MVC#3 익셉션 핸들링
 
 스프링 부트는 여러가지 Exception 을 제공하고, 이런 Exception이 발생했을 때 핸들링 하게 되어있다.
 하지만 필요에 의해 Exception 을 만들어서 사용하는 경우도 있다.   
