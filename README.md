@@ -8,6 +8,7 @@
 [Spring Batch - #5 Job Flow(2)](./spring/batch/SpringBatchApplication3.md)  
 [Spring Batch - #6 Scope & Job parameter](./spring/batch/SpringBatchApplication4.md)  
 2. 스프링 웹 MVC  
+[Spring web MVC - #0 Servlet ](./spring/webmvc/ServletApplication.md)  
 [Spring web MVC - #1 DispatcherServlet](./spring/webmvc/DispatcherServlet1.md)  
 [Spring web MVC - #2 익셉션 핸들링](./spring/webmvc/HandlingException.md)  
 3. 스프링 부트  
