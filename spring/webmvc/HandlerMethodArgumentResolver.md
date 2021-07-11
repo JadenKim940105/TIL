@@ -1,4 +1,4 @@
-# Spring web MVC#3 HandlerMethodArgumentResolver
+# Spring web MVC#4 HandlerMethodArgumentResolver
 
 Spring web MVC 를 사용 해왔다면 Handler 에서 @PathVariable, @ModelAttribute,
 @RequestParam, @RequestBody 와 같은 어노테이션들을 통해 인자 값을 바인딩해서 받는 경험을 했을 것이다.
