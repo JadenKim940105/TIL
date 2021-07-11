@@ -42,3 +42,4 @@
 [테코톡 - #3 JVM Stack & Heap](./techtalk/JVM_Stack_Heap.md)  
 [테코톡 - #4 DNS](./techtalk/DNS.md)  
 [테코톡 - #5 Composition](./techtalk/Composition.md)  
+[테코톡 - #6 Process 와 Thread](./techtalk/ProcessThread.md)  
