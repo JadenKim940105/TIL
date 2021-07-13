@@ -1,5 +1,11 @@
 # 테코톡#7 WebSocket
 
+---
+
+해당 포스팅은 우아한Tech의 테크토크 [Web Sokcet - 코일](https://www.youtube.com/watch?v=MPQHvwPxDUw) 영상을 참고하여 재구성 하였습니다.
+
+---
+
 ## 웹 소켓이란?
 
 웹 소켓이란 두 **_프로그램 간의 메시지를 교환하기 위한 통신 방법_** 중 하나이다.  
