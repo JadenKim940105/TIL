@@ -104,6 +104,12 @@ public class ReadMeAutoCreator {
             }
             sort(bw);
 
+            bw.write("## 알고리즘&자료구조\n");
+            for(int i = 0; i < studySubjects.size(); i++){
+                writeTitleAndLink(bw, i, "알고리즘&자료구조");
+            }
+            sort(bw);
+
 
 
         } catch (IOException ioException) {

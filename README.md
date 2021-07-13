@@ -44,3 +44,5 @@
 [테코톡 - #4 DNS](./techtalk/DNS.md)  
 [테코톡 - #5 Composition](./techtalk/Composition.md)  
 [테코톡 - #6 Process 와 Thread](./techtalk/ProcessThread.md)  
+[테코톡 - #7 WebSocket](./techtalk/WebSocket.md)  
+## 알고리즘&자료구조
