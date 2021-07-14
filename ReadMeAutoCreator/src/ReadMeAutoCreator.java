@@ -72,6 +72,12 @@ public class ReadMeAutoCreator {
             }
             sort(bw);
 
+            bw.write("## JPA\n");
+            for(int i = 0; i < studySubjects.size(); i++){
+                writeTitleAndLink(bw, i, "JPA");
+            }
+            sort(bw);
+
             bw.write("## Kotlin\n");
             for(int i = 0 ; i < studySubjects.size(); i++){
                 writeTitleAndLink(bw, i, "Kotlin");

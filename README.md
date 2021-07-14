@@ -22,6 +22,8 @@
 [Spring Boot - #6 Spring Boot 외부설정](./spring/boot/SpringBootBasic6.md)  
 [Spring Boot - #7 Spring Boot 프로파일  ](./spring/boot/SpringBootBasic7.md)  
 [Spring Boot - #8 Spring Boot 로깅  ](./spring/boot/SpringBootBasic8.md)  
+## JPA
+[JPA - #1 Intro](./jpa/jpa1-intro.md)  
 ## Kotlin
 [Kotlin -  코틀린 시작하기](./kotlin/KotlinIntro.md)  
 ## Java
