@@ -10,9 +10,10 @@
 2. 스프링 웹 MVC  
 [Spring web MVC - #0 Servlet ](./spring/webmvc/ServletApplication.md)  
 [Spring web MVC - #1 DispatcherServlet](./spring/webmvc/DispatcherServlet0.md)  
-[Spring web MVC - #2 DispatcherServlet](./spring/webmvc/DispatcherServlet1.md)  
-[Spring web MVC - #3 익셉션 핸들링](./spring/webmvc/HandlingException.md)  
-[Spring web MVC - #4 HandlerMethodArgumentResolver](./spring/webmvc/HandlerMethodArgumentResolver.md)  
+[Spring web MVC - #2 Spring MVC 구성요소](./spring/webmvc/DispatcherServletComponent.md)  
+[Spring web MVC - #3 DispatcherServlet](./spring/webmvc/DispatcherServlet1.md)  
+[Spring web MVC - #4 익셉션 핸들링](./spring/webmvc/HandlingException.md)  
+[Spring web MVC - #5 HandlerMethodArgumentResolver](./spring/webmvc/HandlerMethodArgumentResolver.md)  
 3. 스프링 부트  
 [Spring Boot - #1 시작하기](./spring/boot/SpringBootBasic1.md)  
 [Spring Boot - #2 자동설정 활용](./spring/boot/SpringBootBasic2.md)  

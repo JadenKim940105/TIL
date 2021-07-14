@@ -1,4 +1,4 @@
-# Spring web MVC#2 DispatcherServlet
+# Spring web MVC#3 DispatcherServlet
 
 ## 디스패처서블릿 동작원리
 디스패처서블릿의 동작흐름을 이해하기 위해 스프링이 제공하는 디스패처 서블릿을 아주 간단하게 살펴보도록 하겠다.
