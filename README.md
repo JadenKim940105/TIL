@@ -8,12 +8,12 @@
 [Spring Batch - #5 Job Flow(2)](./spring/batch/SpringBatchApplication3.md)  
 [Spring Batch - #6 Scope & Job parameter](./spring/batch/SpringBatchApplication4.md)  
 2. 스프링 웹 MVC  
-[Spring web MVC - #0 Servlet ](./spring/webmvc/ServletApplication.md)  
-[Spring web MVC - #1 DispatcherServlet](./spring/webmvc/DispatcherServlet0.md)  
-[Spring web MVC - #2 Spring MVC 구성요소](./spring/webmvc/DispatcherServletComponent.md)  
-[Spring web MVC - #3 DispatcherServlet](./spring/webmvc/DispatcherServlet1.md)  
-[Spring web MVC - #4 익셉션 핸들링](./spring/webmvc/HandlingException.md)  
-[Spring web MVC - #5 HandlerMethodArgumentResolver](./spring/webmvc/HandlerMethodArgumentResolver.md)  
+[Spring web MVC - #0 Servlet ](./spring/webmvc/mvc1-ServletApplication.md)  
+[Spring web MVC - #1 DispatcherServlet](./spring/webmvc/mvc2-DispatcherServlet0.md)  
+[Spring web MVC - #2 Spring MVC 구성요소](./spring/webmvc/mvc3-DispatcherServletComponent.md)  
+[Spring web MVC - #3 DispatcherServlet](./spring/webmvc/mvc4-DispatcherServlet1.md)  
+[Spring web MVC - #4 익셉션 핸들링](./spring/webmvc/mvc5-HandlingException.md)  
+[Spring web MVC - #5 HandlerMethodArgumentResolver](./spring/webmvc/mvc6-HandlerMethodArgumentResolver.md)  
 3. 스프링 부트  
 [Spring Boot - #1 시작하기](./spring/boot/SpringBootBasic1.md)  
 [Spring Boot - #2 자동설정 활용](./spring/boot/SpringBootBasic2.md)  
@@ -25,6 +25,7 @@
 [Spring Boot - #8 Spring Boot 로깅  ](./spring/boot/SpringBootBasic8.md)  
 ## JPA
 [JPA - #1 Intro](./jpa/jpa1-intro.md)  
+[JPA - #2 영속성컨텍스트](./jpa/jpa2-persistenceContext.md)  
 ## Kotlin
 [Kotlin -  코틀린 시작하기](./kotlin/KotlinIntro.md)  
 ## Java
