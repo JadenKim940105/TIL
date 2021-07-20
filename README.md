@@ -26,6 +26,7 @@
 ## JPA
 [JPA - #1 Intro](./jpa/jpa1-intro.md)  
 [JPA - #2 영속성컨텍스트](./jpa/jpa2-persistenceContext.md)  
+[JPA - #3 엔티티 매핑](./jpa/jpa3-mapping.md)  
 ## Kotlin
 [Kotlin -  코틀린 시작하기](./kotlin/KotlinIntro.md)  
 ## Java
@@ -51,3 +52,4 @@
 [테코톡 - #7 WebSocket](./techtalk/t7-WebSocket.md)  
 [테코톡 - #8 Transaction](./techtalk/t8-transaction.md)  
 ## 알고리즘&자료구조
+[알고리즘&자료구조 - #1 Selection Sort](./algorithm/a1-SelectionSort.md)  
