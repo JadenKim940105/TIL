@@ -28,6 +28,7 @@
 [JPA - #2 영속성컨텍스트](./jpa/jpa2-persistenceContext.md)  
 [JPA - #3 엔티티 매핑](./jpa/jpa3-mapping.md)  
 [JPA - #4 연관관계 매핑 1](./jpa/jpa4-realationmapping1.md)  
+[JPA - #5 연관관계 매핑 2](./jpa/jpa5-relationmapping2.md)  
 ## Kotlin
 [Kotlin -  코틀린 시작하기](./kotlin/KotlinIntro.md)  
 ## Java
