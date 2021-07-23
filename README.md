@@ -29,6 +29,7 @@
 [JPA - #3 엔티티 매핑](./jpa/jpa3-mapping.md)  
 [JPA - #4 연관관계 매핑 1](./jpa/jpa4-realationmapping1.md)  
 [JPA - #5 연관관계 매핑 2](./jpa/jpa5-relationmapping2.md)  
+[JPA - #6 상속관계 매핑](./jpa/jpa6-inheritancerelationmapping.md)  
 ## Kotlin
 [Kotlin -  코틀린 시작하기](./kotlin/KotlinIntro.md)  
 ## Java
