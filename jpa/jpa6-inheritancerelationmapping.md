@@ -40,3 +40,37 @@ RDB 에는 OOP 의 상속관계와 동일한 개념이 없다.
 - 테이블로 구분되었음으로 @DiscriminatorColumn 는 사용하지 않는다.
 - 상위타입을 활용해 데이터를 찾는 경우 union all 로 모든 자식테이블을 탐색 -> 최악의 성능..
 - 실무에서 사용하지 않는다. 
+
+-----
+
+### @MappedSuperClass
+```java
+여러 테이블에서 공통으로 사용되는 속성들이 있을 때 사용할 수 있다.
+ex) 다수의 테이블에 등록시간, 수정시간, 등록자, 수정자 정보가 필요한 경우
+
+@MappedSuperclass
+public abstract class BaseEntity {
+
+    private String createdBy;
+
+    private LocalDateTime createdDate;
+
+    private String lastModifiedBy;
+
+    private LocalDateTime lastModifiedDate;
+}
+
+// 
+
+public class Member extends BaseEntity{
+    //... Member 클래스..
+}
+
+public class Team extends BaseEntity{
+    //... Team 클래스..
+}
+```
+- @MappedSuperclass 는 상속관계 매핑은 아니다
+- 해당 클래스는 엔티티가 아니다.(테이블과 매핑 X)
+- 부모 클래스를 상속 받는 자식 클래스에 매핑 정보만 제공
+- 직접 생성해서 사용할 일이 없으므로 추상클래스로 사용할 것을 권장
