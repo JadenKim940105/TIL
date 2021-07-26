@@ -31,6 +31,7 @@
 [JPA - #5 연관관계 매핑 2](./jpa/jpa5-relationmapping2.md)  
 [JPA - #6 상속관계 매핑](./jpa/jpa6-inheritancerelationmapping.md)  
 [JPA - #7 프록시](./jpa/jpa7-proxy.md)  
+[JPA - #8 값 타입](./jpa/jpa8-datatype.md)  
 ## Kotlin
 [Kotlin -  코틀린 시작하기](./kotlin/KotlinIntro.md)  
 ## Java
