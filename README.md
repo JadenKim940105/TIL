@@ -25,6 +25,7 @@
 [Spring Boot - #8 Spring Boot 로깅  ](./spring/boot/SpringBootBasic8.md)  
 ## JPA
 [JPA - #1 Intro](./jpa/jpa1-intro.md)  
+[JPA - #10 객체지향 쿼리](./jpa/jpa10-jpql.md)  
 [JPA - #2 영속성컨텍스트](./jpa/jpa2-persistenceContext.md)  
 [JPA - #3 엔티티 매핑](./jpa/jpa3-mapping.md)  
 [JPA - #4 연관관계 매핑 1](./jpa/jpa4-realationmapping1.md)  
