@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 
 public class ReadMeAutoCreator {
 
@@ -124,7 +125,12 @@ public class ReadMeAutoCreator {
     }
 
     private static void sort(BufferedWriter bw) throws IOException {
-        Collections.sort(sortedList);
+        Collections.sort(sortedList, new Comparator<String>() {
+            @Override
+            public int compare(String o1, String o2) {
+                return Integer.parseInt(o1.replaceAll("[^0-9]", "")) - Integer.parseInt(o2.replaceAll("[^0-9]", ""));
+            }
+        });
         for(int i = 0 ; i <sortedList.size(); i++){
             bw.write(sortedList.get(i));
         }

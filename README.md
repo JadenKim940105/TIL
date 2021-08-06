@@ -2,18 +2,18 @@
 ## Spring
 1. 스프링 배치  
 [Spring Batch - #1 배치(BatchProcessing)?](./spring/batch/SpringBatchApplication.md)  
-[Spring Batch - #2 스프링 배치 사용해보기](./spring/batch/SpringBatchApplication1.md)  
 [Spring Batch - #3 메타테이블 살펴보기](./spring/batch/SpringBatchMetaTable.md)  
+[Spring Batch - #2 스프링 배치 사용해보기](./spring/batch/SpringBatchApplication1.md)  
 [Spring Batch - #4 Job Flow](./spring/batch/SpringBatchApplication2.md)  
-[Spring Batch - #5 Job Flow(2)](./spring/batch/SpringBatchApplication3.md)  
 [Spring Batch - #6 Scope & Job parameter](./spring/batch/SpringBatchApplication4.md)  
+[Spring Batch - #5 Job Flow(2)](./spring/batch/SpringBatchApplication3.md)  
 2. 스프링 웹 MVC  
 [Spring web MVC - #0 Servlet ](./spring/webmvc/mvc1-ServletApplication.md)  
-[Spring web MVC - #1 DispatcherServlet](./spring/webmvc/mvc2-DispatcherServlet0.md)  
 [Spring web MVC - #2 Spring MVC 구성요소](./spring/webmvc/mvc3-DispatcherServletComponent.md)  
-[Spring web MVC - #3 DispatcherServlet](./spring/webmvc/mvc4-DispatcherServlet1.md)  
 [Spring web MVC - #4 익셉션 핸들링](./spring/webmvc/mvc5-HandlingException.md)  
 [Spring web MVC - #5 HandlerMethodArgumentResolver](./spring/webmvc/mvc6-HandlerMethodArgumentResolver.md)  
+[Spring web MVC - #1 DispatcherServlet](./spring/webmvc/mvc2-DispatcherServlet0.md)  
+[Spring web MVC - #3 DispatcherServlet](./spring/webmvc/mvc4-DispatcherServlet1.md)  
 3. 스프링 부트  
 [Spring Boot - #1 시작하기](./spring/boot/SpringBootBasic1.md)  
 [Spring Boot - #2 자동설정 활용](./spring/boot/SpringBootBasic2.md)  
@@ -25,17 +25,17 @@
 [Spring Boot - #8 Spring Boot 로깅  ](./spring/boot/SpringBootBasic8.md)  
 ## JPA
 [JPA - #1 Intro](./jpa/jpa1-intro.md)  
-[JPA - #10 객체지향 쿼리](./jpa/jpa10-jpql.md)  
 [JPA - #2 영속성컨텍스트](./jpa/jpa2-persistenceContext.md)  
 [JPA - #3 엔티티 매핑](./jpa/jpa3-mapping.md)  
-[JPA - #4 연관관계 매핑 1](./jpa/jpa4-realationmapping1.md)  
-[JPA - #5 연관관계 매핑 2](./jpa/jpa5-relationmapping2.md)  
+[JPA - #4 연관관계 매핑 ](./jpa/jpa4-realationmapping.md)  
+[JPA - #5 연관관계 매핑 ](./jpa/jpa5-relationmapping.md)  
 [JPA - #6 상속관계 매핑](./jpa/jpa6-inheritancerelationmapping.md)  
 [JPA - #7 프록시](./jpa/jpa7-proxy.md)  
 [JPA - #8 값 타입](./jpa/jpa8-datatype.md)  
-[JPA - #9 값 타입 컬렉션](./jpa/jpa9-datatype2.md)  
+[JPA - #9 값 타입 컬렉션](./jpa/jpa9-datatype.md)  
+[JPA - #10 객체지향 쿼리](./jpa/jpa10-jpql.md)  
 ## Kotlin
-[Kotlin -  코틀린 시작하기](./kotlin/KotlinIntro.md)  
+[Kotlin - #1 코틀린 시작하기](./kotlin/KotlinIntro.md)  
 ## Java
 [Java - #1 Stream ](./java/JavaStream.md)  
 [Java - #2 Optional](./java/JavaOptional.md)  
@@ -44,12 +44,6 @@
 1. 깃  
 [Git - #1 Ignore](./git/Ignore.md)  
 2. ETC  
-[etc. -  ContextSwitching](./etc/ContextSwitching.md)  
-[etc. -  HTTPS ](./etc/Https.md)  
-[etc. -  MongoDB](./etc/MongoDB.md)  
-[etc. -  README 자동생성](./etc/ReadMeAutoCreator.md)  
-[etc. -  RESTful-API](./etc/RESTfulAPI.md)  
-[etc. -  SSH](./etc/SSH.md)  
 ## 테코톡
 [테코톡 - #1 리눅스 파일시스템](./techtalk/t1-LinuxFileSystem.md)  
 [테코톡 - #2 리눅스 메모리 관리](./techtalk/t2-LinuxMemory.md)  

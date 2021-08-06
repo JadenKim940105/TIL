@@ -1,4 +1,4 @@
-# etc. SSH
+# etc#6 SSH
 
 ## SSH 란?
 SSH 란 Secure Shell Protocol 의 약자로 원격지의 컴퓨터(서버) 를 제어하기 위한 프로토콜을 의미한다.  
