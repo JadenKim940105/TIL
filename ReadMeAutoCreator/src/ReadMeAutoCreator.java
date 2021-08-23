@@ -73,6 +73,12 @@ public class ReadMeAutoCreator {
             }
             sort(bw);
 
+            bw.write("4. Spring In Action  \n");
+            for(int i = 0 ; i < studySubjects.size(); i++){
+                writeTitleAndLink(bw, i, "Spring-in-action");
+            }
+            sort(bw);
+
             bw.write("## JPA\n");
             for(int i = 0; i < studySubjects.size(); i++){
                 writeTitleAndLink(bw, i, "JPA");

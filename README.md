@@ -23,6 +23,8 @@
 [Spring Boot - #6 Spring Boot 외부설정](./spring/boot/SpringBootBasic6.md)  
 [Spring Boot - #7 Spring Boot 프로파일  ](./spring/boot/SpringBootBasic7.md)  
 [Spring Boot - #8 Spring Boot 로깅  ](./spring/boot/SpringBootBasic8.md)  
+4. Spring In Action  
+[Spring-in-action -  #day1](./spring/spring-in-action/day1.md)  
 ## JPA
 [JPA - #1 Intro](./jpa/jpa1-intro.md)  
 [JPA - #2 영속성컨텍스트](./jpa/jpa2-persistenceContext.md)  
@@ -34,6 +36,8 @@
 [JPA - #8 값 타입](./jpa/jpa8-datatype.md)  
 [JPA - #9 값 타입 컬렉션](./jpa/jpa9-datatype.md)  
 [JPA - #10 객체지향 쿼리](./jpa/jpa10-jpql.md)  
+[JPA - #11 페이징 API](./jpa/jpa11-paging.md)  
+[JPA - #12 Join](./jpa/jpa12-join.md)  
 ## Kotlin
 [Kotlin - #1 코틀린 시작하기](./kotlin/KotlinIntro.md)  
 ## Java
